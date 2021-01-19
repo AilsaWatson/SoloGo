@@ -20,3 +20,5 @@ can i do this the other way round to R from visual studio code?1
 18
  
 did work but i pushed when i think i should have pulled lets try again...
+
+YES IT LITERALLY JUST APPEARS IN RSTUDIO THATS GREAT.
